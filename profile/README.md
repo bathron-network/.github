@@ -2,8 +2,6 @@
   <a href="https://bathron.org/"><img src="https://raw.githubusercontent.com/bathron-network/bathron-network.github.io/main/img/wordmark.png" alt="BATHRON" width="360"></a>
 </p>
 
-# BATHRON
-
 > **Create a market. No permission required.**
 
 BATHRON is an open settlement protocol. It owns no market or exchange and does not decide which
