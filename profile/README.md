@@ -50,5 +50,5 @@ Read the [security model](https://bathron.org/docs/consensus/security-model.html
 
 Public documentation has one canonical source:
 [`bathron-network.github.io/docs/src`](https://github.com/bathron-network/bathron-network.github.io/tree/main/docs/src).
-This profile restates none of it — see the
+This profile provides only a short orientation; the canonical documentation prevails — see the
 [documentation policy](https://bathron.org/docs/reference/documentation-policy.html).
